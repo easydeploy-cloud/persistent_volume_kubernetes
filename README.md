@@ -5,10 +5,7 @@ ________________________________________________________________________________
 
 create role -->  web_identity --> select your cluster oidc --> select policy --> AmazonEBSCSIDriverPolicy --> give name for role -->  AmazonEBSCSIDriverRole
 
-`
-
 ### create value file for EBS CSI servicve account 
-`
 ~~~
 vi ebs.yml
 ~~~
